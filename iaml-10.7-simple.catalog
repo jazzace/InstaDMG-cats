@@ -1,0 +1,12 @@
+# Current IAML 10.7 Simple build
+#
+# This file is for simple use stations, such as those that get sent out to offices.
+
+
+include-file:				10.7_vanilla
+include-file:				reg-tech-simple
+include-file:				fau-util-simple
+include-file:				Office2011Lab
+include-file:				internet
+include-file:				iLife11_install
+include-file:				iWork_10.7

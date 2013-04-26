@@ -1,0 +1,7 @@
+# Clears registration and creates only the Tech account (uses CreateUserPkg app for account payload)
+# No utilities added as in standard workflows
+
+
+Third Party Software:
+	clearReg	clearReg.pkg	sha1:b0ba0f6bfd26956562e286bbcdfa8f78dd3722eb
+	create_tech	create_tech.pkg	sha1:6e8cfd6df9e34006dff55923ebf12584425bd878

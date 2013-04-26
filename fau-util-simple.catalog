@@ -1,0 +1,9 @@
+# Creates the Fine Arts User account (uses Lion version of createUser)
+# It presumes that the Tech account (or another admin account) has already been created
+
+
+Third Party Software:
+	create_fineartsuser	create_fineartsuser.pkg	sha1:5c2b692bc7b33687b718a38e94ba6d30cf6ceea7
+
+	Connect	Connect.pkg	sha1:6027a8fee67c0cf1e0838278abab4471aca56bd6
+	
