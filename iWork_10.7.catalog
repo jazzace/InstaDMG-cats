@@ -1,0 +1,8 @@
+# Catalogue to include iWork '09 in an InstaDMG workflow (rather than as a post-install)
+# Updated to 9.3
+
+# This one done as a repack, so not of use to others.
+
+Third Party Software:
+	iWork 9.3	iWork 2012.pkg	sha1:b612129bac42f0af5f1cbe0eaa4206f83f2c55c8
+#include-file:				iWork09_10.7_updates
