@@ -1,0 +1,8 @@
+# Catalogue for MS Office 2011 SP 3
+
+# Includes all apps (Lab version normally excludes Outlook)
+# Files (from 2008) that must be added to user template to suppress most first run prompts are included in Office2Templ OR should be controlled by MCX
+
+Third Party Software:
+	Office_2011_SP3_installer	Office_2011_SP3_installer.pkg	sha1:b1444a2e4ec99166b7005aff3bbfa89c9ce74781
+	Office2Templ	Office2Templ.pkg	sha1:a444150f92f1824f743b7dca8e06afa7f1ce3acd

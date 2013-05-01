@@ -1,0 +1,18 @@
+# Creates the Fine Arts User account (uses Lion version of createUser)
+# It presumes that the Tech account (or another admin account) has already been created
+
+# Installs KeyServer Client software; package is altered for our KeyServer
+
+# Adds dockutil (for manipulating dock via CLI when MCX allows)
+# Adds Connect scripts for file sharing
+
+# Updated 2013-04-05 with new K2 package
+
+Third Party Software:
+	create_fineartsuser	create_fineartsuser.pkg	sha1:5c2b692bc7b33687b718a38e94ba6d30cf6ceea7
+
+	K2Client2013-03-06	K2Client2013-03-06.mpkg	sha1:ccbf4bdb0079f0221b95a8120f9e9bcd51133675
+
+	dockutil-1.1.pkg	dockutil-1.1.pkg.dmg	sha1:2f1f0e08d9adb1b8ce0d9babd2948079b2412837
+	Connect	Connect.pkg	sha1:6027a8fee67c0cf1e0838278abab4471aca56bd6
+	

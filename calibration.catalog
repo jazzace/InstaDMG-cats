@@ -1,0 +1,7 @@
+# Catalogue that includes display calibration software in any software load
+
+Third Party Software:
+	blue eye pro 4.5.6	blue eye pro 456.pkg	sha1:c034d65f0dcc300e4790bf5752018859c9aa17a4
+	blue eye pro 4.5.13-Updater	blue eye pro 4.5.13-Updater.pkg	sha1:4f17d760156d5d1d2166f6cde2468c3f89708847
+	SpectraView II 1.1.14	SpectraView II Installer.pkg	sha1:0f5df12d564162f946f88d18b8c0f1a6d80b253f
+# SpectraView requires serialization; stored in user account, so not part of InstaDMG
