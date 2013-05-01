@@ -1,0 +1,16 @@
+# Catalogue to install iLife '11 (disc-based version) with current updates
+
+# Uses DeployStudio-style version of the installer to allow for InstaDMG install; see AFP548 Wiki for details 
+
+Third Party Software:
+
+	iLife11DS	iLife11DS.dmg	sha1:5e10e7c6433041266716d87ef9d4b20c35dab364
+
+# iDVD 1-5 templates from original disc
+	iDVDExtraContent	iDVDExtraContent.pkg	sha1:a4d42c54cb415c80a92a4e1a17253af9b61c1ba6
+
+# Updates catalogue maintained by the group; change this to 10.7 updates if needed
+include-file:				iLife11_10.8_Updates
+
+# Modify user template to deal with final setup pieces (or comment out and use MCX)
+	iLife2Templ	iLife2Templ.pkg	sha1:c608772ecc9f34308baa45f9429134d82c000e2e
