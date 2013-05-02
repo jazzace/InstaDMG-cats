@@ -1,0 +1,17 @@
+# Catalogue that adds QuickTime 7 and the Pro registration
+
+# Flip4Mac also included, as some versions only work fully with QT7
+
+Third Party Software:
+
+	QuickTimePlayer 7.6.6	http://support.apple.com/downloads/DL923/en_US/QuickTimePlayer7.6.6_SnowLeopard.dmg	sha1:5a4d572aca134c4ea5c4646d4def41c8ef04e7c9
+	QT7_serial	QT7_serial.pkg	sha1:860702990807b07805f544e6a5c94be5794c6b93
+
+# Flip4Mac package downloaded from 	http://download.microsoft.com/download/C/8/9/C8951314-E056-404A-8EA8-8744E42594AA/3.2.0.16/Flip4Mac%203.2.0.16.dmg
+# Has Silverlight installer as well, so need to copy it off DMG to work properly
+# For Lion and later only
+	Flip4Mac 3.2	Flip4Mac.pkg	sha1:9eddd5389746a3f0eab3bbd13ede98bf307ce0f3
+
+# Use this Flip4Mac installer for Snow Leopard and earlier
+# Same drill: download and copy pkg; http://download.microsoft.com/download/C/8/9/C8951314-E056-404A-8EA8-8744E42594AA/2.4.4.2/Flip4Mac%20WMV%202.4.4.2.dmg
+	Flip4Mac 2.4.4.2	Flip4Mac WMV.mpkg	sha1:788004704b5fee8da92f4243644afe6438f25c93
