@@ -7,7 +7,7 @@ Third Party Software:
 
 	create_tech	create_tech.pkg	sha1:6e8cfd6df9e34006dff55923ebf12584425bd878
 
-	TextWrangler_4.5.1	http://ash.barebones.com/TextWrangler_4.5.1.dmg	sha1:af2b085fd5a76b29339fc6f0164cb2c1d880d99e
+	TextWrangler_4.5.2	http://pine.barebones.com/files/TextWrangler_4.5.2.dmg	sha1:852c9ae9e9d93a371f48e14766f536f08848f8b2
 	TextWrangler45CLI	TextWrangler45CLI.pkg	sha1:fc798a322ec0f4844a745bc776ca8177ce17f7c1
 
 	SMARTReporter273	SMARTReporter273.pkg	sha1:8cd5ead75e01c7275db67fc43502c1bf9a39ed75
