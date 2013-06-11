@@ -1,0 +1,20 @@
+# Development Version of Current IAML 10.8 build
+#
+# This is the file used to build up to the master version of the Main Lab build.
+
+
+include-file:				10.8.4_vanilla
+include-file:				reg-tech-util
+include-file:				fau-util
+include-file:				Office2011Slim
+include-file:				internet
+include-file:				iLife11_install
+include-file:				iWork
+include-file:				notation
+include-file:				modelling
+include-file:				audio
+include-file:				video-animation
+#include-file:				AppleProApps
+include-file:				graphics
+include-file:				printers-iaml
+include-file:				coding

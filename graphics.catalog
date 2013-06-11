@@ -1,0 +1,7 @@
+# Catalogue to install all basic (always included) graphics apps and utilities for the Labs
+# Includes Wacom tablet drivers
+
+Third Party Software:
+
+	WacomTablet_6.3.5-3	http://cdn.wacom.com/U/drivers/mac/pro/WacomTablet_6.3.5-3.dmg	sha1:c81127f69e5f70965b322d935ff7bd2cc04d79db
+	PenTablet_5.2.6-5	http://cdn.wacom.com/U/productsupport/Drivers/Mac/Consumer/PenTablet_5.2.6-5.dmg	sha1:eb93ef2a606a716b3f1429b2b3486cc045a0916e
