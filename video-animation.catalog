@@ -1,0 +1,12 @@
+# Video & Animation app catalogue file
+# To be included in other workflows
+
+Third Party Software:
+include-file:				FCPX-Motion5
+include-file:				QuickTime7
+
+	iStopMotion 3.1	iStopMotion31.pkg	sha1:f46709a2472d018c710dfa9c7ed583a0665f3316
+	iStopMotion3Lic	iStopMotion3Lic.pkg	sha1:1278fbcf033069de14445647aa79ceee0b9552cb
+
+	MPEG_Streamclip_1.9.3b8	MPEG_Streamclip_1.9.3b8.dmg	sha1:e228481fb86d4dfc86f102483514b4f67396dd5e
+	vlc-2.0.7	http://get.videolan.org/vlc/2.0.7/macosx/vlc-2.0.7.dmg	sha1:ea190de6108f77d5ed9eb775b872eea4ce9eee3c
