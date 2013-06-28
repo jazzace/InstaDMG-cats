@@ -2,8 +2,8 @@
 # Does not include Safari, which is installed with basic Apple software
 
 Third Party Software:
-
-	Firefox 17.0.6esr	https://download.mozilla.org/?product=firefox-17.0.6esr&os=osx&lang=en-US	sha1:59b24d6d0d0d1295d20901ceb923fe3b71d09189
+# Firefox ESR - http://www.mozilla.org/en-US/firefox/organizations/all.html
+	Firefox 17.0.7esr	https://download.mozilla.org/?product=firefox-17.0.7esr&os=osx&lang=en-US	sha1:1ea76c9f03c2877653aa4cfbb21bc4c246a7a4ef
 	Fetch_5.7.3	http://fetchsoftworks.com/fetch/download/Fetch_5.7.3.dmg	sha1:ba7817bd29f1ffd60658291e1006bbfe3746985c
 # Serialize Fetch
 	FetchUCLic	FetchUCLic.pkg	sha1:d49190232dd71c1ed6d8c4f6b4d23ba9fea3fec0

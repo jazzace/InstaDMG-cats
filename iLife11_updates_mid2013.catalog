@@ -1,0 +1,8 @@
+# Same as iLife updates catalogue, except anything already included in April 2013 repack is not included
+# updated 2013-05-27 with iMovie 9.0.9
+# updated 2013-06-28 with DC RAW 4.07
+Apple Updates:
+	iMovie 9.0.9 Update	http://support.apple.com/downloads/DL1574/en_US/iMovie9.0.9Update.dmg	sha1:d07c4d04f3cce2414a2cf4a2967a409640dcf50f
+
+# Digital Camera RAW - http://support.apple.com/kb/DL1666
+	RAW Camera Update 4.07	http://support.apple.com/downloads/DL1666/en_US/RAWCameraUpdate4.07.dmg	sha1:b9875b2a06de40d37158e4502f33113d482d9187
