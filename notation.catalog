@@ -6,11 +6,11 @@
 
 Third Party Software:
 
-	NoteAbilityPro_2.538	NoteAbilityPro_2.538.pkg	sha1:0ab552e65baf1259661f00997bc5b5497fd0cbb4
+	NoteAbilityPro_2.542	NoteAbilityPro_2.542.pkg	sha1:000760b86da1c7d171968ab78720d7cf7878bd7c
 # Package that serializes NAPro
 	NAProAuth	NAProAuth.pkg	sha1:9c58a0870b34b89a23cfa43342dc343fa7c78e29
 
 include-file:				Finale2012a
 	Finale 2012c Update	UpdateFinale.pkg	sha1:4bf9b4ed4674b00537c54e56c3717c4a969f73cf
 
-	MuseScore 1.3	http://musescore.org/download/musescore.dmg	sha1:4c78d4fa98a02c58ade7da18e1fe6c2562a8a267
+	MuseScore-1.3	http://sourceforge.net/projects/mscore/files/mscore/MuseScore-1.3/MuseScore-1.3.dmg/download	sha1:67110c33604e632da99c1d1e9db25bad11e60bf3
