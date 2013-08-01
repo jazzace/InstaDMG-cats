@@ -1,6 +1,7 @@
 # Catalogue for 2D and 3D modelling software (all stations)
 # AIR moved to post-deploy — necessary for Vectorworks Help (bundled version is far out of date)
 # Vectorworks Help 2.0 installed on top (moves AIR to 2.7)
+# Cinema 4D and Mudbox currently commented out because new version of each available
 
 Third Party Software:
 
@@ -9,8 +10,10 @@ Third Party Software:
 
 #	AIR35	AIR35.pkg	sha1:605d95c0ed28f0323b1d44514859d724c2939a0f
 
-	Cinema4D_R12.048	Cinema4D_R12.048.pkg	sha1:27034abbc9f99ecc41e01506a86a073cf6c93cd1
+#	Cinema4D_R12.048	Cinema4D_R12.048.pkg	sha1:27034abbc9f99ecc41e01506a86a073cf6c93cd1
+	Cinema 4D R14.042	Cinema 4D R14.pkg	sha1:022834df61f116bf3d90e5e01177acc5a14d4777
+
 	
 # New for Fall 2013
-	Mudbox2013	Mudbox2013.mpkg	sha1:c1d59abdd9c4b71bc8eaee074192598b251ce75f
-	Autodesk License Server info	autodesklic.pkg	sha1:2357a8a30eb7dbb63e665ed5ae74f5cbc69d25f8
+#	Mudbox2013	Mudbox2013.mpkg	sha1:c1d59abdd9c4b71bc8eaee074192598b251ce75f
+#	Autodesk License Server info	autodesklic.pkg	sha1:2357a8a30eb7dbb63e665ed5ae74f5cbc69d25f8

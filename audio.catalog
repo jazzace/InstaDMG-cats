@@ -1,25 +1,30 @@
 # Catalogue to install all basic (always included) audio apps for the Labs
 # Does not include GarageBand, which is installed with iLife
 
-# Comment out the 43 GB AppleAudioResources package 
+# Comment out the 43 GB AppleAudioResources package for all but final builds
 
 Third Party Software:
 
 # Audacity requires repackaging only because it has a parent folder that is drag-installed
 	Audacity 2.0.3	Audacity 2.0.3.pkg	sha1:9ac427de35c60c354daa51fd868e2a8507eca97f
+	
+# Logic Pro X - packaged from App Store
+	Logic Pro X 10.01	Logic Pro X.pkg	sha1:12b163f2215ca2cbfbc2a1da11a6bc340da60e65
 
-	Logic Pro 9.1.1	LogicPro911.pkg	sha1:1147bed7a520ce050a1c71dd113770fa21b9859e
-	Logic Pro 9.1.8 Update	http://support.apple.com/downloads/DL1601/en_US/LogicPro9.1.8Update.dmg	sha1:d97ef18be5c7864956660427c05728c23407c7f4
+
+# Logic Pro 9 installers - no longer in use
+#	Logic Pro 9.1.1	LogicPro911.pkg	sha1:1147bed7a520ce050a1c71dd113770fa21b9859e
+#	Logic Pro 9.1.8 Update	http://support.apple.com/downloads/DL1601/en_US/LogicPro9.1.8Update.dmg	sha1:d97ef18be5c7864956660427c05728c23407c7f4
 # Custom package that includes serial number/authorization information for Logic
-	Logic Studio System ID	Logic Studio System ID.pkg	sha1:60f3654503853ca0ec47954cbcf09e948e2b5320
+#	Logic Studio System ID	Logic Studio System ID.pkg	sha1:60f3654503853ca0ec47954cbcf09e948e2b5320
 
 	Amadeus Pro 2.1.3	http://s3.amazonaws.com/AmadeusPro2/AmadeusPro.dmg	sha1:c46bd04b98e72850eaa48dd3c0957275433a8a03
 # The Amadeus Pro manual and serial number are installed post-deploy (package + MCX)
 
 	Max 6.1.2	Max61_6a3e5225_keyserver.dmg	sha1:2a0a9d7ba409af0af651fc4e1e10247b7b9a3b2d
 
-# Comment this installer out for all but final builds, as it includes 43 GB of samples
-	AppleAudioResources	AppleAudioResources.pkg	sha1:db8e726b83a1519477b4bae781422a8cc7e38b57
+# Comment this installer out for all but final builds, as it includes 43 GB of samples (Logic 9 and earlier)
+#	AppleAudioResources	AppleAudioResources.pkg	sha1:db8e726b83a1519477b4bae781422a8cc7e38b57
 
 #	SuperCollider	SuperCollider.pkg	sha1:2695d80feb1f5bdd4fe5d4061a18322ef7aaabe4
 
