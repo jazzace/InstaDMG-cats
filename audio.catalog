@@ -1,7 +1,11 @@
 # Catalogue to install all basic (always included) audio apps for the Labs
 # Does not include GarageBand, which is installed with iLife
 
-# Comment out the 43 GB AppleAudioResources package for all but final builds
+# ===Large audio files notice:===
+# Audio resource files for Logic and GarageBand are contained in this catalogue. 
+# Comment out the audio resources on all but final builds, as these can add 30-45 GB to the deployment image.
+# * For Logic Pro 9, comment out AppleAudioResources
+# * For Logic Pro X, comment out LogicProAudio2013 include file
 
 Third Party Software:
 
@@ -10,7 +14,7 @@ Third Party Software:
 	
 # Logic Pro X - packaged from App Store
 	Logic Pro X 10.01	Logic Pro X.pkg	sha1:12b163f2215ca2cbfbc2a1da11a6bc340da60e65
-
+include-file:				LogicProAudio2013
 
 # Logic Pro 9 installers - no longer in use
 #	Logic Pro 9.1.1	LogicPro911.pkg	sha1:1147bed7a520ce050a1c71dd113770fa21b9859e
@@ -23,12 +27,12 @@ Third Party Software:
 
 	Max 6.1.2	Max61_6a3e5225_keyserver.dmg	sha1:2a0a9d7ba409af0af651fc4e1e10247b7b9a3b2d
 
-# Comment this installer out for all but final builds, as it includes 43 GB of samples (Logic 9 and earlier)
+# Audio Resources for Logic Pro 9 (and GarageBand)
 #	AppleAudioResources	AppleAudioResources.pkg	sha1:db8e726b83a1519477b4bae781422a8cc7e38b57
 
 #	SuperCollider	SuperCollider.pkg	sha1:2695d80feb1f5bdd4fe5d4061a18322ef7aaabe4
 
-# selected Open Sound Control (OSC) objects for Max & Logic plus the TouchOSC editor
+# Selected Open Sound Control (OSC) objects for Max & Logic plus the TouchOSC editor
 # For Max 6.0.x, use the OSC_W2013 installer instead
 	OSC for Max 6.1	OSCforMax61.pkg	sha1:8a106026918a17d050d4bfbc12cf47e8cd483814
 	TouchOSC Editor 1.5.6	TouchOSC Editor.pkg	sha1:b729c4306fd66c45fe51d7c4857e4314cbf7b91c
