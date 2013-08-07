@@ -3,7 +3,7 @@
 
 Third Party Software:
 # Firefox ESR - http://www.mozilla.org/en-US/firefox/organizations/all.html
-	Firefox 17.0.7esr	https://download.mozilla.org/?product=firefox-17.0.7esr&os=osx&lang=en-US	sha1:1ea76c9f03c2877653aa4cfbb21bc4c246a7a4ef
+	Firefox 17.0.8esr	https://download.mozilla.org/?product=firefox-17.0.8esr&os=osx&lang=en-US	sha1:b6e60055b60259ddea07337c58ffbb9abc0739b7
 	Fetch_5.7.3	http://fetchsoftworks.com/fetch/download/Fetch_5.7.3.dmg	sha1:ba7817bd29f1ffd60658291e1006bbfe3746985c
 # Serialize Fetch
 	FetchUCLic	FetchUCLic.pkg	sha1:d49190232dd71c1ed6d8c4f6b4d23ba9fea3fec0
