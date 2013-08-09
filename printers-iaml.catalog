@@ -1,0 +1,18 @@
+# Catalogue to include appropriate drivers for Lab printers (and scanners accessed via Image Capture)
+
+Apple Updates:
+# Epson drivers here apply to scanners (via Image Capture); printer drivers are in 3rd party section
+	EPSONPrinterDrivers2.15	http://support.apple.com/downloads/DL1398/en_US/EPSONPrinterDrivers2.15.dmg	sha1:bb5b33cb4c58dda44d979454bf54872eac77ac49
+	HPPrinterDrivers2.14	http://support.apple.com/downloads/DL907/en_US/HPPrinterDrivers2.14.dmg	sha1:87b3e32f295d8c1e11a22df715855c19b571b226
+
+Third Party Software:
+	GCCElite20XLPPD	GCCElite20XLPPD.pkg	sha1:7f54df61379e80b27d8068de185309c59c7555ea
+# Drivers for Epson Stylus Pro printers, extracted from their hidden location on disk images (/Installer.mpkg)
+	Epson SP 3880	Installer 3880.mpkg	sha1:3467e65455c4f40550d0014bfb3feaf238e55337
+	Epson SP 9800	Installer 9800.mpkg	sha1:066a714702ebea231dbc21a3a732ad553dd19ae8
+	
+# Local Printer Definitions - config file copying method
+# comment out for non-Lab machines or if using MCX or script to create printers
+#	IAML Printer Configuration	Printer Configuration.pkg	sha1:a670a04f65377abdb8a2c87055d2aac9db484b18
+
+# Media ColorSync Profiles not listed here are deployed post-install
