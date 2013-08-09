@@ -17,3 +17,6 @@ Third Party Software:
 # New for Fall 2013
 #	Mudbox2013	Mudbox2013.mpkg	sha1:c1d59abdd9c4b71bc8eaee074192598b251ce75f
 #	Autodesk License Server info	autodesklic.pkg	sha1:2357a8a30eb7dbb63e665ed5ae74f5cbc69d25f8
+
+# MeshLab - open source (on SourceForge)
+	MeshLabMac_v132	http://downloads.sourceforge.net/project/meshlab/meshlab/MeshLab%20v1.3.2/MeshLabMac_v132.dmg	sha1:2cd97156642113d828a44842c52d92882ae35221
