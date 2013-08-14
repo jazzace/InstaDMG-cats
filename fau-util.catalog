@@ -3,16 +3,22 @@
 
 # Installs KeyServer Client software; package is altered for our KeyServer
 
-# Adds dockutil (for manipulating dock via CLI when MCX allows)
+# Adds dockutil (for manipulating dock once FAU locked down)
 # Adds Connect scripts for file sharing
+# Adds desktop patterns for use in FAU and tech accounts
 
-# Updated 2013-04-05 with new K2 package
+# Updated 2012-05-31 to reflect changes to Connect and FAU user packages
+# Updated 2012-08-08 with new Connect package
+# Updated 2012-11-05 with new FAU package with autologin
+# Updated 2013-08-14 with newest K2 package
+# Updated 2013-08-14 with FAU and Tech desktop patterns (to be referenced by Local MCX or Profiles)
 
 Third Party Software:
 	create_fineartsuser	create_fineartsuser.pkg	sha1:5c2b692bc7b33687b718a38e94ba6d30cf6ceea7
 
-	K2Client2013-03-06	K2Client2013-03-06.mpkg	sha1:ccbf4bdb0079f0221b95a8120f9e9bcd51133675
+	K2Client for IAML 7.1.0.2	K2Client IAML7102.mpkg	sha1:c9d8f0539932cb050aaa103c8e39e49e4e6d3fa2
 
 	dockutil-1.1.pkg	dockutil-1.1.pkg.dmg	sha1:2f1f0e08d9adb1b8ce0d9babd2948079b2412837
 	Connect	Connect.pkg	sha1:6027a8fee67c0cf1e0838278abab4471aca56bd6
-	
+
+	DesktopPics	DesktopPics.pkg	sha1:c23cac6e358c5c6c6eb425c8c9923ed21a2fe0dd
