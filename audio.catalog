@@ -25,7 +25,7 @@ include-file:				LogicProAudio2013
 	Amadeus Pro 2.1.3	http://s3.amazonaws.com/AmadeusPro2/AmadeusPro.dmg	sha1:c46bd04b98e72850eaa48dd3c0957275433a8a03
 # The Amadeus Pro manual and serial number are installed post-deploy (package + MCX)
 
-	Max 6.1.2	Max61_6a3e5225_keyserver.dmg	sha1:2a0a9d7ba409af0af651fc4e1e10247b7b9a3b2d
+	Max 6.1.3	Max61_69b6394_keyserver.dmg	sha1:e8e00971dc2312b3e03701eea979651dd238e043
 
 # Audio Resources for Logic Pro 9 (and GarageBand)
 #	AppleAudioResources	AppleAudioResources.pkg	sha1:db8e726b83a1519477b4bae781422a8cc7e38b57
