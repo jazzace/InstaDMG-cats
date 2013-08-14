@@ -1,7 +1,7 @@
 # Catalogue for 2D and 3D modelling software (all stations)
 # AIR moved to post-deploy — necessary for Vectorworks Help (bundled version is far out of date)
 # Vectorworks Help 2.0 installed on top (moves AIR to 2.7)
-# Cinema 4D and Mudbox currently commented out because new version of each available
+# Mudbox currently commented out; will be post-installed
 
 Third Party Software:
 
