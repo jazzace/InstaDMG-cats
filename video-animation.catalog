@@ -5,7 +5,7 @@ Third Party Software:
 include-file:				FCPX-Motion5
 include-file:				QuickTime7
 
-	iStopMotion 3.1	iStopMotion31.pkg	sha1:f46709a2472d018c710dfa9c7ed583a0665f3316
+	iStopMotion 3.1.1	iStopMotion 3.1.1.pkg	sha1:19c5d8252daf7da1003574ef3332e38266d26567
 	iStopMotion3Lic	iStopMotion3Lic.pkg	sha1:1278fbcf033069de14445647aa79ceee0b9552cb
 
 	MPEG_Streamclip_1.9.3b8	MPEG_Streamclip_1.9.3b8.dmg	sha1:e228481fb86d4dfc86f102483514b4f67396dd5e

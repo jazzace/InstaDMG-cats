@@ -13,7 +13,7 @@ Third Party Software:
 	Audacity 2.0.3	Audacity 2.0.3.pkg	sha1:9ac427de35c60c354daa51fd868e2a8507eca97f
 	
 # Logic Pro X - packaged from App Store
-	Logic Pro X 10.01	Logic Pro X.pkg	sha1:12b163f2215ca2cbfbc2a1da11a6bc340da60e65
+	Logic Pro X 10.0.3	Logic Pro X.pkg	sha1:b2c529c671a4f6bbf418fcc13073de32dd8a404a
 include-file:				LogicProAudio2013
 
 # Logic Pro 9 installers - no longer in use
